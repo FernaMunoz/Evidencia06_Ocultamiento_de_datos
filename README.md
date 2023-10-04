@@ -1,5 +1,4 @@
 # Evidencia06_Ocultamiento_de_datos
-![image](https://github.com/FernaMunoz/Evidencia06_Ocultamiento_de_datos/assets/142464144/9377b193-a790-41d6-9c89-ac8212889dfa)
 
 Integrantes 
 Valentina Huenchuñir 
@@ -20,5 +19,9 @@ Evidencia del programa:
 
 
 ![Captura de pantalla 2023-10-04 171120](https://github.com/FernaMunoz/Evidencia06_Ocultamiento_de_datos/assets/142464144/4b4577db-50fd-4c4c-ad83-0ba04d37da57)
+
+
+
+![Captura de pantalla 2023-10-04 171353](https://github.com/FernaMunoz/Evidencia06_Ocultamiento_de_datos/assets/142464144/debf7d53-edda-415a-8c1c-120a6c4c4c5b)
 
 
