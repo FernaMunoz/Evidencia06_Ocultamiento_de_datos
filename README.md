@@ -1,4 +1,5 @@
 # Evidencia06_Ocultamiento_de_datos
+![image](https://github.com/FernaMunoz/Evidencia06_Ocultamiento_de_datos/assets/142464144/9377b193-a790-41d6-9c89-ac8212889dfa)
 
 Integrantes 
 Valentina Huenchuñir 
