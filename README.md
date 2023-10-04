@@ -44,7 +44,9 @@ myUtilities package
 La clase TodaysDate 
 La clase TodaysDate y sus sub clases
 
-Respuesta respecto a nuestro código: Entre las opciones presentadas, la opción d) y e) son más viables, si se accede la variable hora está definida en la propia clase TodaysDate. En este caso, es accesible dentro de la propia clase.
+Respuesta respecto a nuestro código: 
+
+Entre las opciones presentadas, la opción d) y e) son más viables, si se accede la variable hora está definida en la propia clase TodaysDate. En este caso, es accesible dentro de la propia clase.
 La opción e) igual es posible, si la variable hora tiene un modificador de acceso, siendo este privado y si las subclases de TodaysDate están en el mismo paquete o son subclases que pueden acceder a miembros protegidos o públicos de la clase TodayDate.
 
 Respuesta respecto a código ppt: Según el código presentado en campus virtual,  la variable Time es de tipo “default”, por lo tanto es posible acceder a esta desde cualquier clase que se encuentre en el mismo paquete, por lo tanto las alternativa correcta es e), segun entendi se utiliza el package java.util por lo tanto también se puede acceder a la variable time en subclases del mismo paquete por lo que la alternativa b) igual es correcta
