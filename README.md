@@ -2,8 +2,8 @@
 
 
 Integrantes 
-Valentina Huenchuñir 
-Maria Jose Powell
+Valentina Huenchuñir -
+Maria Jose Powell - 
 Fernanda Muñoz
 
 Profesor
