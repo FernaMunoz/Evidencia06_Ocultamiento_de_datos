@@ -1,19 +1,19 @@
 # Evidencia06_Ocultamiento_de_datos
 
 
-Integrantes 
+Integrantes:
 Valentina Huenchuñir -
 Maria Jose Powell - 
 Fernanda Muñoz
 
-Profesor
+Profesor:
 Dr. Samuel Sepulveda
 
-Asignatura
+Asignatura:
 Programación Orientada a Objetos
 
 
-Fecha
+Fecha:
 04 de octubre de 2023
 
 Evidencia del programa:
