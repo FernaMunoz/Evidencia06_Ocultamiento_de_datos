@@ -1,5 +1,6 @@
 # Evidencia06_Ocultamiento_de_datos
 
+
 Integrantes 
 Valentina Huenchuñir 
 Maria Jose Powell
@@ -38,10 +39,15 @@ Compilación exitosa del programa:
 Preguntas:
 
 1. ¿Desde dónde es posible acceder a la variable time?
-Cualquier otra clase
-java.util package 
-myUtilities package 
-La clase TodaysDate 
+   
+a. Cualquier otra clase
+
+b. java.util package 
+
+c. myUtilities package
+
+d. La clase TodaysDate 
+
 La clase TodaysDate y sus sub clases
 
 Respuesta respecto a nuestro código: 
