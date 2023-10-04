@@ -45,7 +45,6 @@ La clase TodaysDate
 La clase TodaysDate y sus sub clases
 
 Respuesta respecto a nuestro código: 
-
 Entre las opciones presentadas, la opción d) y e) son más viables, si se accede la variable hora está definida en la propia clase TodaysDate. En este caso, es accesible dentro de la propia clase.
 La opción e) igual es posible, si la variable hora tiene un modificador de acceso, siendo este privado y si las subclases de TodaysDate están en el mismo paquete o son subclases que pueden acceder a miembros protegidos o públicos de la clase TodayDate.
 
