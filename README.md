@@ -1,7 +1,7 @@
 # Evidencia06_Ocultamiento_de_datos
 
 
-Integrantes:
+Integrantes:  
 Valentina Huenchuñir -
 Maria Jose Powell - 
 Fernanda Muñoz
