@@ -16,6 +16,11 @@ Programación Orientada a Objetos
 Fecha:
 04 de octubre de 2023
 
+
+Plan de trabajo: 
+Codigo y pruebas unitarias- Maria Jose Powell
+Responder las preguntas: Valentina Huenchuñir y Fernanda Muñoz
+
 Evidencia del programa:
 
 
