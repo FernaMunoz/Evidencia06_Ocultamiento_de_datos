@@ -69,23 +69,29 @@ Según el código del ppt, el atributo day es público cualquiera puede acceder 
 
 3. ¿Qué atributos de las clases tienen el método de acceso más restrictivo?
    
-Day 
+a.Day 
 
-Month  
+b.Month  
 
-Time 
+c.Time 
 
-Year
+d.Year
 
 Respuesta respecto a nuestro código: 
 Las 4 alternativas tienen modificador de acceso privado, siendo que solo se puede acceder en la misma clase TodayDate, por lo que todas las alternativas tienen el mismo método de acceso restrictivo.
 
 Respuesta respecto a código ppt: 
+
 En orden de menos a más restrictivo
-Day es el menos restrictivo ya que es de tipo public
-Time es de tipo default 
-Year ya que es de tipo protected
-Month es el método con acceso más restrictivo ya que es de tipo private
+
+a.Day es el menos restrictivo ya que es de tipo public
+
+b.Time es de tipo default 
+
+c.Year ya que es de tipo protected
+
+d.Month es el método con acceso más restrictivo ya que es de tipo private
+
 
 4. ¿Desde dónde se puede acceder al atributo year?
    
@@ -101,9 +107,7 @@ Respuesta respecto a nuestro código:
 Si el atributo year está declarado como privado, entonces solo se puede acceder a él desde dentro de la propia clase TodaysDate. Debido a que ninguna otra clase fuera de TodaysDate puede acceder directamente al atributo year sí está declarado como privado, incluso si son subclases de TodaysDate. Para que las subclases puedan acceder a un atributo privado, generalmente se proporcionan métodos en la clase principal, para permitir un acceso controlado.
 
 Respuesta respecto a código ppt: 
-El atributo Year al ser protected puede ser en c),  b) y d).
-
-Respuesta respecto a código ppt: el atributo Year al ser protected puede ser en c),  b) y d)  
+El atributo Year al ser protected puede ser en c),  b) y d).  
 
 
 ![Captura de pantalla 2023-10-04 172421](https://github.com/FernaMunoz/Evidencia06_Ocultamiento_de_datos/assets/142464144/39a3da31-dcdb-4f36-87b9-7754eaeb75de)
